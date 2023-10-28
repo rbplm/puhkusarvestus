@@ -1,0 +1,14 @@
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\bin\Debug\net7.0\PuhkuseKalkulaator.exe
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\bin\Debug\net7.0\PuhkuseKalkulaator.deps.json
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\bin\Debug\net7.0\PuhkuseKalkulaator.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\bin\Debug\net7.0\PuhkuseKalkulaator.dll
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\bin\Debug\net7.0\PuhkuseKalkulaator.pdb
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.dll
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\refint\PuhkuseKalkulaator.dll
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.pdb
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\PuhkuseKalkulaator.genruntimeconfig.cache
+C:\Users\Kasutaja\Desktop\puhkusearvestus\PuhkuseKalkulaator\obj\Debug\net7.0\ref\PuhkuseKalkulaator.dll
