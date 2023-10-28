@@ -1,0 +1,15 @@
+
+Time interval overlap calculator
+
+Instructions for use
+1. Download folder
+2. Open file program.cs in directory (e.g. with IDE or cmd)
+3. Run file in directory e.g with dotnet run
+
+4. Follow instructions of the UI. Select number for command and press enter.
+5. The program allows to increase or decrease the scope or timespan (e.g  around 10 minutes vs 1 hour (or more))
+6. For that choose 2 and select either + (to widen the scope) or - (to limit)
+7. To see results, choose 3 and press enter
+8. To exit, choose 4 and press enter
+a
+Only one result is filtered out, but program enables to see the results for all regions. 
